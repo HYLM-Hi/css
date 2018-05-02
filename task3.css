@@ -1,0 +1,35 @@
+html{height: 100%;}
+
+body{color: white;
+	background-color:#68cdd5; 
+	font-size:125%;
+}
+.h{margin: 1em;
+	padding: 0em;
+}
+.h img{height: 2em;
+}
+.hh{margin: 4% 4% 4% 4%;
+	padding:  2% 14% 2% 14%;
+}
+.hh img{margin: auto;
+	display: block;
+	height: 3.5em;
+	width: 9em;
+}
+.hh p{display: block;
+	font-size: 1em;
+}
+.hhh{margin: 20% 20%;
+	padding: 4em;
+}
+.logol{padding-left: 13%;
+	padding-top: 2%;
+	float: left;
+}
+.logol img{height: 4em;}
+.logor{padding-right: 13%;
+	padding-top: 2%;
+	float: right;
+}
+.logor img{height: 4em;}
